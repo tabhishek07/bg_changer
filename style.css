@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#main{
+    padding-left: 10%;
+    padding-right: 10%;
+    max-width: 1200px;
+    margin: 0 auto;
+    /* background: red; */
+}
+
+#color_pannel{
+    display: flex;
+    justify-content:space-around;
+    align-items: center; 
+    margin-top:80vh;   
+    /* padding-left: 10%;
+    padding-right: 10%; */
+    /* border: 1px solid; */
+    border-radius: 10px;
+    background: white;
+    box-shadow: 2px 2px rgb(209, 206, 206) inset;
+}
+
+#red{
+    border-radius: 10px;
+    background: red;
+    display: flex;
+    margin: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+  ;  cursor: pointer;
+  
+}
+
+#black{
+    border-radius: 10px;
+    background: black;
+    color: white;
+    display: flex;
+    margin: 3px;
+    padding-left: 10px;
+    padding-right: 10px;;
+    cursor: pointer;
+    
+}
+
+#yellow{
+    border-radius: 10px;
+    background: rgb(188, 188, 121);
+    color: white;
+    display: flex;
+    margin: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+#green{
+    border-radius: 10px;
+    background: green;
+    color: white;
+    display: flex;
+    margin: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    
+}
+
+
+#blue{
+    border-radius: 10px;
+    background: blue;
+    color: white;
+    display: flex;
+    margin: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    
+}
+
+
+#grey{
+    border-radius: 10px;
+    background: grey;
+    color: white;
+    display: flex;
+    margin: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    
+}
+
+#white{
+    border-radius: 10px;
+    background: salmon;
+    color: white;
+    display: flex;
+    margin: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    
+}
